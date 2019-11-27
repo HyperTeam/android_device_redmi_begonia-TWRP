@@ -1,15 +1,3 @@
-ro.secure=0
-ro.adb.secure=0
-ro.debuggable=1
-ro.sf.lcd_density=440
-persist.sys.isUsbOtgEnabled=true
-ro.carrier=unknown
-ro.sys.usb.mtp.whql.enable=0
-ro.sys.usb.storage.type=mtp
-ro.sys.usb.bicr=no
-ro.fota.oem=Xiaomi
-ro.build.software.version=Android9_10
-ro.treble.enabled=true
 ro.mediatek.chip_ver=S01
 ro.mediatek.platform=MT6785
 ro.mtk_tee_gp_support=1
